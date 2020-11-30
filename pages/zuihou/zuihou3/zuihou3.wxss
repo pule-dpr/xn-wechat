@@ -1,0 +1,36 @@
+/* pages/zuihou/zuihou3/zuihou3.wxss */
+.item{
+  width: 670rpx;
+  height: 1000rpx;
+  background-color: red;
+  margin: 20rpx auto;
+}
+.a{
+  width: 670rpx;
+  height: 1000rpx;
+}
+.item2{
+  width: 320rpx;
+  height:320rpx;
+}
+.wrap1{
+  display: flex;
+  width: 750rpx;
+  height: 320rpx;
+  background-color:white;
+  justify-content:space-evenly; /*space-between;*/
+  align-items:flex-start;
+  flex-direction:row;
+   flex-wrap: wrap;
+}
+.item1{
+  margin-left: 40rpx
+}
+.b{
+  width: 320rpx;
+  height:320rpx;
+}
+.c{
+  
+  font-size: 12px;
+}

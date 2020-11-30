@@ -1,0 +1,48 @@
+{
+  "pages": [
+    
+    "pages/index/index",
+    "pages/zuihou/zuihou",
+    "pages/text/text",
+    "pages/fenye/fenye",
+    "pages/logs/logs",
+    "pages/fenye1/fenye1",
+   
+    "pages/shangwu/shangwu",
+    "pages/yundong/yundong",
+    "pages/jianyue/jianyue",
+    "pages/oumei/oumei",
+    "pages/yinlun/yinlun",
+    "pages/zuihou/zuihou1/zuihou1",
+    "pages/zuihou/zuihou2/zuihou2",
+    "pages/zuihou/zuihou3/zuihou3",
+    "pages/zuihou/zuihou4/zuihou4",
+    "pages/zuihou/zuihou5/zuihou5"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "型男穿搭指南",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#3ab25c",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页",
+        "iconPath": "assert/img/1.png",
+        "selectedIconPath": "assert/img/1.1.png"
+      },
+      {
+        "pagePath": "pages/text/text",
+        "text": "衣柜",
+        "iconPath": "assert/img/3.png",
+        "selectedIconPath": "assert/img/3.3.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

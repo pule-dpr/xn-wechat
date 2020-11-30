@@ -1,0 +1,38 @@
+/* pages/yundong/yundong.wxss */
+.item{
+  width: 340rpx;
+  height: 600rpx;
+  background-color: red;
+}
+.wrap{
+  display: flex;
+  width: 750rpx;
+  height: 600rpx;
+  background-color:white;
+  justify-content:space-evenly; /*space-between;*/
+  align-items:flex-start;
+  flex-direction:row;
+   flex-wrap: wrap;
+}
+.head1{
+   width: 340rpx;
+  height: 600rpx;
+}
+.item1{
+   display: flex;
+  width: 750rpx;
+  height: 60rpx;
+  background-color:white;
+  justify-content:space-evenly; /*space-between;*/
+  align-items:flex-start;
+  flex-direction:row;
+   flex-wrap: wrap;
+}
+.item2{
+  height: 60rpx;
+  width: 100rpx;
+  background-color: white;
+  font-size:12px;
+  padding-left:50rpx; 
+  padding-top:15rpx;
+}

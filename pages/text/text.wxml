@@ -1,0 +1,84 @@
+<!--pages/text/text.wxml-->
+<view class="item1" style="background-color:white;font-size:14px;">型男/穿搭</view>
+<view class="items" style="background-color:white；">
+<swiper autoplay indicator-dots indicator-color="#fff" indicator-active-color="red" display-multiple-items="1">
+<swiper-item>
+  <image src="/assert/p/1.jpg" class="head"></image>
+</swiper-item>
+<swiper-item>
+  <image src="/assert/p/2.jpg" class="head"></image>
+</swiper-item>
+<swiper-item>
+  <image src="/assert/p/3.jpg" class="head"></image>
+</swiper-item>
+<swiper-item>
+  <image src="/assert/p/4.jpg" class="head"></image>
+</swiper-item>
+<swiper-item>
+  <image src="/assert/p/5.jpg" class="head"></image>
+</swiper-item>
+</swiper>
+</view>
+<view class="item1" style="background-color:white;font-size:12px;">搭配分类|CLASSIC</view>
+<view class="wrap">
+  <view class="item" style="background-color:green">
+    <navigator url="/pages/fenye/fenye?id=5">
+      <image src="/assert/head/1.jpg" class="head1"></image>
+    </navigator>
+  </view> 
+<!-- <view class="item" style="background-color:pink; align-self:flex-start"></view>  -->
+  <view class="item" style="background-color:yellow">
+    <navigator url="/pages/shangwu/shangwu?id=5">
+      <image src="/assert/head/2.jpg" class="head1"></image>
+    </navigator>
+  </view>
+  <view class="item" style="background-color:blue">
+    <navigator url="/pages/yundong/yundong?id=5">
+      <image src="/assert/head/3.jpg" class="head1"></image>
+    </navigator>
+  </view>
+</view>
+<view class="wrap">
+<view class="item" style="background-color:green">
+  <navigator url="/pages/jianyue/jianyue?id=5">
+      <image src="/assert/head/4.jpg" class="head1"></image>
+    </navigator>
+</view> 
+<view class="item" style="background-color:yellow">
+  <navigator url="/pages/oumei/oumei?id=5">
+      <image src="/assert/head/5.jpg" class="head1"></image>
+    </navigator>
+</view>
+<view class="item" style="background-color:blue">
+  <navigator url="/pages/yinlun/yinlun?id=5">
+      <image src="/assert/head/6.jpg" class="head1"></image>
+    </navigator>
+</view>
+</view>
+<view class="wrap">
+<view class="item" style="background-color:green">
+  <navigator url="/pages/jianyue/jianyue?id=5">
+      <image src="/assert/head/7.jpg" class="head1"></image>
+    </navigator>
+</view> 
+<view class="item" style="background-color:yellow">
+  <navigator url="/pages/oumei/oumei?id=5">
+      <image src="/assert/head/8.jpg" class="head1"></image>
+    </navigator>
+</view>
+<view class="item" style="background-color:blue">
+  <navigator url="/pages/yinlun/yinlun?id=5">
+      <image src="/assert/head/9.jpg" class="head1"></image>
+    </navigator>
+</view>
+</view>
+<view class="wrap1">
+<view class="item2" style="">
+      <image bindtap="gong" src="/assert/head/11.jpg" class="head2"></image>
+</view>
+<view class="item2" style="">
+      <image bindtap="xu" src="/assert/head/10.jpg" class="head2" style="margin-left:1px;"></image>
+</view>
+</view>
+<view class="item3" style="background-color:white; padding-left:90rpx; padding-top:20rpx; font-size:12px;">| 男人邦出品 |</view>   
+

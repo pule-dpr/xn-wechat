@@ -1,0 +1,65 @@
+/* pages/text/text.wxss */
+.wrap{
+  display: flex;
+  width: 750rpx;
+  height: 250rpx;
+  background-color:white;
+  justify-content:space-evenly; /*space-between;*/
+  align-items:flex-start;
+  flex-direction:row;
+   flex-wrap: wrap;
+}
+.wrap1{
+  display: flex;
+  width: 750rpx;
+  height: 120rpx;
+  background-color: rgb(41, 8, 8);
+  justify-content:space-evenly; /*space-between;*/
+  align-items:flex-start;
+  flex-direction:row;
+   flex-wrap: wrap;
+}
+.items{
+  width: 640rpx;
+  height: 400rpx; 
+  display:block;
+  margin: 0 auto;
+}
+.item{
+  width: 240rpx;
+  height: 240rpx;
+   border: 1px solid gainsboro;
+}
+swiper{
+  width: 640rpx;
+  height: 400rpx;
+}
+.item1{
+  width: 400rpx;
+  height: 60rpx; 
+  display:block;
+  margin-left: 20rpx;
+}
+.item2{
+  width: 375rpx;
+  height:120rpx;
+}
+.item3{
+  width: 240rpx;
+  height: 60rpx; 
+  display:block;
+  margin: 0 auto;
+}
+.head{
+  width: 100%;
+}
+.head1{
+  width: 240rpx;
+  height: 240rpx;
+
+}
+.head2{
+  width: 375rpx;
+  height:120rpx;
+
+}

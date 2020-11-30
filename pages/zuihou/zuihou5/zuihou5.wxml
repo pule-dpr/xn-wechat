@@ -1,0 +1,14 @@
+<!--pages/zuihou/zuihou5/zuihou5.wxml-->
+<view class="item">
+  <image  class="a" src="/assert/yi/f/1.jpg"></image>
+</view>
+<view class="item1" style="background-color:white;font-size:12px;">相关单品/OUTFIT</view>
+<view class="wrap1">
+<view class="item2" style="background-color:yellow">
+  <image  class="b" src="/assert/yi/f/2.jpg"></image>
+</view>
+<view class="item2" style="background-color:blue">
+  <image  class="b" src="/assert/yi/f/3.jpg"></image>
+</view>
+</view>
+<button  class="c" open-type="share">分享</button>

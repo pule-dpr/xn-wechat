@@ -1,0 +1,3 @@
+<!--pages/fenye1/fenye1.wxml-->
+<text>pages/fenye1/fenye1.wxml</text>
+<button bindtap="gong">按钮</button>

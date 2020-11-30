@@ -1,0 +1,101 @@
+<!--pages/fenye/fenye.wxml-->
+<view class="item1"> 
+  <view class="item2" style="">
+   <navigator url="/pages/fenye/fenye">
+      推荐
+    </navigator>
+  </view>
+  <view class="item2" style="">
+  <navigator url="/pages/fenye/fenye">
+      最低v
+    </navigator>
+  </view>
+  <view class="item2" style="">
+  <navigator url="/pages/fenye/fenye">
+      最高^
+    </navigator>
+  </view>
+<view class="item2" style="">
+  <navigator url="/pages/fenye/fenye">
+      最热
+    </navigator>
+</view>
+</view>
+
+<view class="wrap">
+  <view class="item" style="background-color:green">
+    <navigator url="/pages/zuihou/zuihou?id=5">
+      <image src="/assert/head1/1.jpg" class="head1"></image>
+    </navigator>
+  </view> 
+  <view class="item" style="background-color:blue">
+    <navigator url="/pages/zuihou/zuihou1/zuihou1?id=5">
+      <image src="/assert/head1/2.jpg" class="head1"></image>
+    </navigator>
+  </view>
+  </view>
+  <view class="wrap">
+  <view class="item" style="background-color:green">
+    <navigator url="/pages/zuihou/zuihou2/zuihou2?id=5">
+      <image src="/assert/head1/3.jpg" class="head1"></image>
+    </navigator>
+  </view> 
+  <view class="item" style="background-color:blue">
+    <navigator url="/pages/zuihou/zuihou3/zuihou3?id=5">
+      <image src="/assert/head1/4.jpg" class="head1"></image>
+    </navigator>
+  </view>
+  </view>
+
+<view class="wrap">
+  <view class="item" style="background-color:green">
+    <navigator url="/pages/zuihou/zuihou4/zuihou4?id=5">
+      <image src="/assert/head1/5.jpg" class="head1"></image>
+    </navigator>
+  </view> 
+  <view class="item" style="background-color:blue">
+    <navigator url="/pages/zuihou/zuihou5/zuihou5?id=5">
+      <image src="/assert/head1/6.jpg" class="head1"></image>
+    </navigator>
+  </view>
+  </view>
+  <view class="wrap">
+  <view class="item" style="background-color:green">
+    <navigator url="/pages/fenye1/fenye1?id=5">
+      <image src="/assert/head1/1.jpg" class="head1"></image>
+    </navigator>
+  </view> 
+  <view class="item" style="background-color:blue">
+    <navigator url="/pages/fenye1/fenye1?id=5">
+      <image src="/assert/head1/2.jpg" class="head1"></image>
+    </navigator>
+  </view>
+  </view>
+  <view class="wrap">
+  <view class="item" style="background-color:green">
+    <navigator url="/pages/fenye1/fenye1?id=5">
+      <image src="/assert/head1/3.jpg" class="head1"></image>
+    </navigator>
+  </view> 
+  <view class="item" style="background-color:blue">
+    <navigator url="/pages/fenye1/fenye1?id=5">
+      <image src="/assert/head1/4.jpg" class="head1"></image>
+    </navigator>
+  </view>
+  </view>
+
+<view class="wrap">
+  <view class="item" style="background-color:green">
+    <navigator url="/pages/fenye1/fenye1?id=5">
+      <image src="/assert/head1/5.jpg" class="head1"></image>
+    </navigator>
+  </view> 
+  <view class="item" style="background-color:blue">
+    <navigator url="/pages/fenye1/fenye1?id=5">
+      <image src="/assert/head1/6.jpg" class="head1"></image>
+    </navigator>
+  </view>
+  </view>
+
+
+
